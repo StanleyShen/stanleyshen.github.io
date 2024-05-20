@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Learning Things</title>
+    <title>Learning Things</title>
     <link>https://stanleyshen.github.io/</link>
-    <description>Recent content on My Learning Things</description>
+    <description>Recent content on Learning Things</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2024 13:15:23 +0800</lastBuildDate>
     <atom:link href="https://stanleyshen.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First test</title>
-      <link>https://stanleyshen.github.io/post/first/</link>
-      <pubDate>Sat, 18 May 2024 13:15:23 +0800</pubDate>
-      <guid>https://stanleyshen.github.io/post/first/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

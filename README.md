@@ -1,2 +1,0 @@
-# stanleyshen.github.io
-notes
